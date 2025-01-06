@@ -1,0 +1,8 @@
+{
+        "borrower": "Max Mustermann",
+        "lender": "DZ Privatbank",
+        "amount": 50000,
+        "interest": 5,
+        "term": 10
+      }
+      
